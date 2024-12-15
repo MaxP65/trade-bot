@@ -1,0 +1,15 @@
+{
+    "wantedpercent": 3,
+    "mindifference": 4,
+    "listingplace": 5,
+    "days": 3,
+    "maxgrow": 60,
+    "maxshrink": 20,
+    "minsold": 1.5,
+    "autoincrement": true,
+    "time_steamdelay": 9,
+    "time_proxydelay": 0.7,
+    "maxorderspercent": 90,
+    "notbuyprofit": -0.5,
+    "convert": 62.925
+}

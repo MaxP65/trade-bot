@@ -1,0 +1,13 @@
+{
+    "appid": 730,
+    "max_items": 100,
+    "start_at": 0,
+    "use_weapons": true,
+    "use_stickers_graffities_and_pathces": false,
+    "use_knifes_and_gloves": false,
+    "use_agents": false,
+    "use_containers_and_keys": false,
+    "use_normal": true,
+    "use_souvenir": false,
+    "use_stattrak": false
+}
